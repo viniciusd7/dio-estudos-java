@@ -3,8 +3,8 @@ public class Aula04 {
         // entendendo nomeclatura de variaveis
 
         double salarioMinimo = 2.500;
-        int  numeroNormal = numeroCurto;
-        short numeroCurto2 = (short) numeroNormal; 
+        int numeroNormal = numeroCurto;
+        short numeroCurto2 = (short) numeroNormal;
 
         int numero = 1;
         long numeroGrande = 1000000000000L; // L para indicar que é um long
