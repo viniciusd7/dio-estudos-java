@@ -7,8 +7,7 @@ public class Usuario {
         System.out.println("Meu volume atual é " + TvSmart.volume);
 
         TvSmart.ligar(); // ligando a tv
-        System.out.println("novo status -> Minha Tv Esta ligada ? " + TvSmart.ligada); // testando implementações no
-                                                                                       // codigo
+        System.out.println("novo status -> Minha Tv Esta ligada ? " + TvSmart.ligada); // testando implementações no codigo
 
         TvSmart.diminuirVolume();
         TvSmart.diminuirVolume();
